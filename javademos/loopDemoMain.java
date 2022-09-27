@@ -1,4 +1,4 @@
-public class Main {
+public class loopDemoMain {
     public static void main(String[] args) {
         //for
         // i=i+1
