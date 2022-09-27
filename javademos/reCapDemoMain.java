@@ -1,4 +1,4 @@
-public class Main {
+public class reCapDemoMain {
     public static void main(String[] args) {
 
         int sayi1=20;
