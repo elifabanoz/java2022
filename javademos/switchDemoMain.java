@@ -1,4 +1,4 @@
-public class Main {
+public class switchDemoMain {
     public static void main(String[] args) {
 // ctrl+shift+alt+L düzenlemek için
         //eğer aynı olmasını istiyorsak alt alta yaz, örnek :
