@@ -1,4 +1,4 @@
-public class Main {
+public class dataTypesMain {
     public static void main(String[] args) {
       int sayi =12;
       //float ve double kesirli sayılar için
