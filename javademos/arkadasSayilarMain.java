@@ -1,4 +1,4 @@
-public class Main {
+public class arkadasSayilarMain {
     public static void main(String[] args) {
        //220-284
         int sayi1=220;
