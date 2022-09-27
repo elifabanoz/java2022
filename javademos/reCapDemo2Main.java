@@ -1,4 +1,4 @@
-public class Main {
+public class reCapDemo2Main {
     public static void main(String[] args) {
      double[] myList = {1.2, 3.4, 5.6};
      double total=0;
