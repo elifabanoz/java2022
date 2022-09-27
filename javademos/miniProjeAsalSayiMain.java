@@ -1,4 +1,4 @@
-public class Main {
+public class miniProjeAsalSayiMain {
     public static void main(String[] args) {
 
         int number = -2;
