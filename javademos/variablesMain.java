@@ -1,4 +1,4 @@
-public class Main {
+public class variablesMain {
     public static void main(String[] args) {
 
        /* Systm.out.ptrintln("Öğrenci Sayım: 30");
