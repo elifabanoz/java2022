@@ -1,4 +1,4 @@
-public class Main {
+public class arraysDemoMain {
     public static void main(String[] args) {
        String ogrenci1= "Ayşenur";
        String ogrenci2= "Elif";
