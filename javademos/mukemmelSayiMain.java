@@ -1,4 +1,4 @@
-public class Main {
+public class mukemmelSayiMain {
     public static void main(String[] args) {
        // 6 1+2+3
         // 28 1+2+4+7+14
