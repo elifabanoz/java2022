@@ -1,4 +1,4 @@
-public class Main {
+public class sesliHarflerMain {
     public static void main(String[] args) {
         char harf = 'A';
       switch (harf) {
